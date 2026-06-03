@@ -1,4 +1,8 @@
 # My-Blogs
+Hi, I’m Sameer 👋  
+Aspiring SEO Specialist | Content Creator  
+This repository is a collection of my SEO blogs and demo projects.  
+
 Collection of SEO blogs and demo projects.
 ## Blog Links  
 1. [Digital Marketing Basics (2026): Step‑by‑Step Guide for Beginners](https://digitalvibesseoblog.wordpress.com/2026/03/20/digital-marketing-kya-hai-what-is-digital-marketing/)  
