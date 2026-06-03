@@ -1,7 +1,15 @@
 # My-Blogs
 Hi, I’m Sameer 👋  
 Aspiring SEO Specialist | Content Creator  
-This repository is a collection of my SEO blogs and demo projects.  
+This repository is a collection of my SEO blogs and demo projects. 
+
+## Skills  
+- On‑Page SEO (Content, Meta Tags, Internal Linking)  
+- Technical SEO (Crawlability, Site Speed, Mobile Optimization, Indexing)  
+- Off‑Page SEO (Backlinks, Guest Posting, Social Signals)  
+- Social Media Optimization (Instagram Growth, Hashtags Strategy)  
+- WordPress Blog Writing & Publishing  
+
 
 Collection of SEO blogs and demo projects.
 ## Blog Links  
