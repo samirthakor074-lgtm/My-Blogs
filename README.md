@@ -25,5 +25,5 @@ Collection of SEO blogs and demo projects.
 10. [How to Optimize Your Business for Nearby Customers](https://digitalvibesseoblog.wordpress.com/2026/05/25/how-to-optimize-your-business-for-nearby-customers/)  
 11. [Instagram Growth Tips for Beginners (2026)](https://digitalvibesseoblog.wordpress.com/2026/05/29/instagram-growth-tips-for-beginners-2026/)  
 12. [How to Use Hashtags to Get More Reach in 2026](https://digitalvibesseoblog.wordpress.com/2026/05/30/how-to-use-hashtags-to-get-more-reach-in-2026/)  
-13. [“Technical SEO Audit Checklist 2026”] (https://digitalvibesseoblog.wordpress.com/2026/06/04/technical-seo-audit-checklist-2026)
+13. [Technical SEO Audit Checklist 2026] (https://digitalvibesseoblog.wordpress.com/2026/06/04/technical-seo-audit-checklist-2026)
     
