@@ -27,6 +27,7 @@ Collection of SEO blogs and demo projects.
 12. [How to Use Hashtags to Get More Reach in 2026](https://digitalvibesseoblog.wordpress.com/2026/05/30/how-to-use-hashtags-to-get-more-reach-in-2026/)  
 13. [Technical SEO Audit Checklist 2026](https://digitalvibesseoblog.wordpress.com/2026/06/04/technical-seo-audit-checklist-2026)
 14. [SEO Trends 2026](https://digitalvibesseoblog.wordpress.com/2026/06/05/seo-trends-2026/)
+15. [Voice Search Optimization Trends 2026](https://digitalvibesseoblog.wordpress.com/2026/06/06/voice-search-optimization-trends-2026/)
 
 
 
