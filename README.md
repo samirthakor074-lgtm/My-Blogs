@@ -29,8 +29,7 @@ Collection of SEO blogs and demo projects.
 14. [SEO Trends 2026](https://digitalvibesseoblog.wordpress.com/2026/06/05/seo-trends-2026/)
 15. [Voice Search Optimization Trends 2026](https://digitalvibesseoblog.wordpress.com/2026/06/06/voice-search-optimization-trends-2026/)
 16. [Content Marketing strategy](https://digitalvibesseoblog.wordpress.com/2026/06/08/content-marketing-strategy/)
-17.       [What is Performance Marketing in Digital Marketing](https://digitalvibesseoblog.wordpress.com/2026/06/16/what-is-performance-marketing-in-digital-marketing/)
-
+17. [What is Performance Marketing in Digital Marketing?](https://digitalvibesseoblog.wordpress.com/2026/06/16/what-is-performance-marketing-in-digital-marketing/)
 
 
     
