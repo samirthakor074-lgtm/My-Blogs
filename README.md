@@ -28,8 +28,7 @@ Collection of SEO blogs and demo projects.
 13. [Technical SEO Audit Checklist 2026](https://digitalvibesseoblog.wordpress.com/2026/06/04/technical-seo-audit-checklist-2026)
 14. [SEO Trends 2026](https://digitalvibesseoblog.wordpress.com/2026/06/05/seo-trends-2026/)
 15. [Voice Search Optimization Trends 2026](https://digitalvibesseoblog.wordpress.com/2026/06/06/voice-search-optimization-trends-2026/)
-
-
+16. [Content Marketing strategy](https://digitalvibesseoblog.wordpress.com/2026/06/08/content-marketing-strategy/) 
 
 
 
