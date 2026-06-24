@@ -30,6 +30,6 @@ Collection of SEO blogs and demo projects.
 15. [Voice Search Optimization Trends 2026](https://digitalvibesseoblog.wordpress.com/2026/06/06/voice-search-optimization-trends-2026/)
 16. [Content Marketing strategy](https://digitalvibesseoblog.wordpress.com/2026/06/08/content-marketing-strategy/)
 17. [What is Performance Marketing in Digital Marketing?](https://digitalvibesseoblog.wordpress.com/2026/06/16/what-is-performance-marketing-in-digital-marketing/)
-
+18.[How to Master SEO: Step‑by‑Step Guide for Beginners](https://digitalvibesseoblog.wordpress.com/2026/06/24/how-to-master-seo-step-by-step-guide-for-beginners/)
 
     
