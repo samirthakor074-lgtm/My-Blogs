@@ -31,5 +31,6 @@ Collection of SEO blogs and demo projects.
 16. [Content Marketing strategy](https://digitalvibesseoblog.wordpress.com/2026/06/08/content-marketing-strategy/)
 17. [What is Performance Marketing in Digital Marketing?](https://digitalvibesseoblog.wordpress.com/2026/06/16/what-is-performance-marketing-in-digital-marketing/)
 18.[How to Master SEO: Step‑by‑Step Guide for Beginners](https://digitalvibesseoblog.wordpress.com/2026/06/24/how-to-master-seo-step-by-step-guide-for-beginners/)
+   [The Power of Local SEO: How Small Businesses Can Rank Higher on Google](https://digitalvibesseoblog.wordpress.com/2026/07/02/the-power-of-local-seo-how-small-businesses-can-rank-higher-on-google/)
 
     
